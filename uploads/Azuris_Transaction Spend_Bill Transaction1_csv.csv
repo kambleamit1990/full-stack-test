@@ -1,0 +1,4 @@
+Member ID,Date,Transaction ID ,Amount,Product Code,quantity ,Remark,Transaction Channel,,,extra,Gpts,
+55000000001,27-02-2025,5501111,1000,SERVICE05,5,Bill Paid in Branch,30,,,500,0,
+55000000001,27-02-2025,5501112,200,SERVICE05,1,Bill Paid in Branch,30,,,100,0,
+55000000001,27-02-2025,5501113,500,SERVICE01,1,Bill Paid in Branch,30,,,0,200,20
